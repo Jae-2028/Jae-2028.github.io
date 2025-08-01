@@ -1,0 +1,42 @@
+body {
+  background: rgba(209, 238, 255, 0.66);
+}
+
+p {
+  color: black;
+  background: rgba(138, 212, 255, 0.66);
+  font-size: 25px;
+}
+
+h2 {
+  letter-spacing: 10px;
+  font-size: 50px;
+  color: #334999;
+  font-family: monospace;
+  text-align: center;
+}
+
+.mePhoto {
+  height: 300px;
+  width: 200px;
+  float: left;
+}
+
+img {
+  width: 600px;
+  border-style: double;
+  border-color: rebeccapurple;
+  border-width: thick;
+  float: right;
+}
+
+.navigation-buttons {
+  background: rgba(155, 4, 202, 0.58);
+  color: black;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: medium;
+  border-color: rgba(40, 0, 52, 0.63);
+  font-size: 50px;
+  text-align: center;
+}
